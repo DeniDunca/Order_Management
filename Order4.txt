@@ -1,0 +1,11 @@
+_________BILL_________
+
+ DATA: 27/05/2021 17:15:18
+
+ The client : FirstName: Ion
+ LastName: Ionescu
+ Email: ion@gmail.com
+
+ ordered the product: Name: Produs3
+ Price: 40.0
+ Quantity: 23
